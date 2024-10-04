@@ -1,5 +1,3 @@
-# Netfilx_movies_and_TV_shows_clustering
-%%writefile README.md
 # Netflix Movies and TV Shows Analysis
 
 This project analyzes a dataset of Netflix movies and TV shows to discover insights and trends. 
