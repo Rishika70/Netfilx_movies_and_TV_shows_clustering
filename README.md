@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Analysis
 
-This project analyzes a dataset of Netflix movies and TV shows to discover insights and trends. 
+This project aims to analyze and cluster Netflix movies and TV shows based on their features, such as genre, description, and release year.  By applying unsupervised machine learning techniques, we aim to group similar content together, enhancing user experience and personalized recommendations.. 
 
 ## Project Summary
 
