@@ -68,7 +68,7 @@ This project provides a comprehensive analysis of Netflix movies and TV shows an
 ## Industry Uses:
 
 **Media and Entertainment:**
-*   -Assist in content creation and programming strategies.
+*   - Assist in content creation and programming strategies.
 *   - Optimize user experience and engagement with personalization and recommendations.
 *   - Enhance user discovery of new content and facilitate content exploration.
   **Marketing and Advertising:**
